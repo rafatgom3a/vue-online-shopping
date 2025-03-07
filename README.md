@@ -39,13 +39,17 @@ The cart page:
 ## 📥 Installation
 
 // Clone the repository
+
 git clone https://github.com/rafatgom3a/vue-online-shopping.git
 
 // Navigate to the project directory
+
 cd vue-online-shopping
 
 // Install dependencies
+
 npm install
 
 // Start the development server
+
 npm run serve
